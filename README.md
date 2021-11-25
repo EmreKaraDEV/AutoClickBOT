@@ -11,7 +11,7 @@ WebSite = https://emreki.art.blog/
 
 GitHub = https://github.com/EmreKaraDEV
 
-WriterBOT Source Code: https://github.com/EmreKaraDEV/AutoClickBOT
+AutoClickBOT Source Code: https://github.com/EmreKaraDEV/AutoClickBOT
 
 YouTube = https://www.youtube.com/c/EmreKaraTV
 

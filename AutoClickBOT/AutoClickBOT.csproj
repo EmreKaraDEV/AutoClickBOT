@@ -14,6 +14,9 @@
     <Description>AutoClickBOT allows your mouse to automatically click as often as you want for as long as you want.</Description>
     <PackageProjectUrl>https://emreki.art.blog/autoclickbot/</PackageProjectUrl>
     <Copyright>Emreki</Copyright>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/EmreKaraDEV/AutoClickBOT</RepositoryUrl>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,6 +25,10 @@
 
   <ItemGroup>
     <None Include="..\..\..\Backups\AutoClickBOT\logo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

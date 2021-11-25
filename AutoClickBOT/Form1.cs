@@ -9,7 +9,6 @@ namespace AutoClickBOT
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Properties.Settings.Default.isTermsOfUseAccepted = false; Properties.Settings.Default.Save();
             if (Properties.Settings.Default.isTermsOfUseAccepted == false)
             {
                 this.Size = new Size(396, 356);

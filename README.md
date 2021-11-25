@@ -22,15 +22,25 @@ Improve myself. I will develop open source applications to increase my GitHub us
 This application does not send any data to Emreki.
 
 # System requirements
+
 OS: Windows 11 or Windows 10 (Not tested on versions like Windows 7, 8.1.)
+
 Ram: Average 15-20MB
+
 Application size: 28MB
+
 Project size: 86MB
 
 # Application Features
+
 Automatic click!
+
 Set the click frequency!
+
 Specify the processing time!
+
 Specify the waiting time before the process!
+
 The click frequency can be at least 250ms!
+
 Try Infinity Mode!

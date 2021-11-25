@@ -1,5 +1,6 @@
 # AutoClickBOT
 An open source project. Powered By Emreki.
+
 AutoClickBOT allows your mouse to automatically click as often as you want for as long as you want.
 
 This application was developed with .Net 6, Visual Studio 2022. Developed with Windows 11.
